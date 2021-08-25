@@ -57,7 +57,7 @@
                 </div>
             </div>
         </nav>
-        <h1 class="container">Bienvenido al Sistema Trabajador <strong>${txtNombre}</strong></h1>  <!-- *SE BORRA -->
+        <h1 class="container">Bienvenido al Sistema Trabajador <strong>${txtNombre}</strong></h1>  <!-- *SE MODIFICA EL DIA MIERCOLES 9.34 AM -->
 
         <div class="row">
             <div class="col-sm-4">
