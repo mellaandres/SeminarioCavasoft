@@ -57,7 +57,7 @@
                 </div>
             </div>
         </nav>
-        <h1 class="container">Bienvenido al Sistema <strong>${txtNombre}</strong></h1>
+        <h1 class="container">Bienvenido al Sistema Trabajador <strong>${txtNombre}</strong></h1>  <!-- COMENTARIO DE PRUEBA -->
 
         <div class="row">
             <div class="col-sm-4">
